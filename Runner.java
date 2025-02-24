@@ -1,3 +1,5 @@
+//Group 3 Members: Nathan Y., Phoebe Y., Aditya S., Ujjwal R. 
+
 public class Runner {
 
     public static void main(String[] args) {
@@ -24,7 +26,7 @@ public class Runner {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < m3.length; i++) {
                 for (int j = 0; j < m3[i].length; j++) {
-                    sb.append(String.format("%5s", m3[i][j]) + " "); // Formatting with 5 spaces
+                    sb.append(String.format("%5s", m3[i][j])).append(" "); // Formatting with 5 spaces
                 }
                 sb.append("\n");
             }

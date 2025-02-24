@@ -1,3 +1,5 @@
+//Group 3 Members: Nathan Y., Phoebe Y., Aditya S., Ujjwal R. 
+
 public class Matrix {
 
     // Method to multiply two matrices (if they are compatible)
