@@ -1,7 +1,7 @@
 # Group_3_Matrix_Multi
 # Group 3 Members: Nathan Y., Phoebe Y., Aditya S., Ujjwal R. 
 
-<!-- Matrix Class
+# Matrix Class
 Overview: The Matrix class contains a static method called multiply, which takes two Double[][] matrices as input and returns their product if they are compatible
 
 Explination of how it works: 
@@ -21,7 +21,7 @@ Return Value:
 
 -------------------------------------------------------------- 
 
-Runner Class 
+# Runner Class 
 Overview: Entry point for testing and running the matrix multi 
 
 Explination of how it works: 
@@ -35,11 +35,10 @@ Matrix Defining:
 - m3 is null, produces error message 
 - Otherwise, prints the matrix using stringbuilder to properly format 
 
--->
+-------------------------------------------------------------- 
 
 # Why This Method? 
 
-<!-- 
 - Produces a check function that essentially esnures that the matrices can be multipled with values before proceding 
 - Efficiency with a triple nested loop to create a robust algorithm that checks every row and column respectively 
 - Usage of Double[] instead of double [] which allows null functions and errors to be processed 
